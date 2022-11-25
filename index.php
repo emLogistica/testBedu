@@ -20,6 +20,10 @@
     $multiplicacion = $valor1 * $valor2;
     echo '<a> La multiplicación es: </a>', $multiplicacion;
 
+    $division = $valor1 / $valor2;
+    echo '<a> La división es: </a>', $division;
+
+
      ?>
 </body>
 
