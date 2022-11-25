@@ -15,8 +15,11 @@
     $valor2 = 3;
     
     $suma = $valor1 + $valor2;
-    
     echo '<a> La suma es: </a>', $suma;
+
+    $multiplicacion = $valor1 * $valor2;
+    echo '<a> La multiplicación es: </a>', $multiplicacion;
+
      ?>
 </body>
 
