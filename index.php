@@ -27,6 +27,8 @@
     $division = $valor1 / $valor2;
     echo '<a> La división es: </a>', $division;
 
+    $spotencia = $valor1 ** $valor2;
+    echo '<a> La suma es: </a>', $potencia;
 
 
 
