@@ -31,7 +31,7 @@
     echo '<a> La suma es: </a>', $potencia;
 
     echo '<a>  Estas son las cuatro operaciones ';
-    echo '<a>  Las cuatro aritmeticas ';
+
      ?>
 </body>
 
