@@ -30,7 +30,7 @@
     $spotencia = $valor1 ** $valor2;
     echo '<a> La suma es: </a>', $potencia;
 
-
+    echo '<a>  Estas son las cuatro operaciones ';
 
      ?>
 </body>
